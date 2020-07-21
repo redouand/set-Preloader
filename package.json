@@ -1,0 +1,19 @@
+{
+  "name": "preloader-spinner",
+  "version": "1.0.0",
+  "description": "Add Preloader using HTML CSS & Javascript, no JQuery -watch my youtube video, I'll explain to you how to set a preloader to your page using Html css javascript.",
+  "main": "pre.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redouand/set-Preloader.git"
+  },
+  "author": "promaker dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redouand/set-Preloader/issues"
+  },
+  "homepage": "https://redouand.github.io/set-Preloader/"
+}
